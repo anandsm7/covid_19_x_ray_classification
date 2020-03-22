@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVID-19_SCAN</string>
+    <string name="buttonSelectPhoto">SELECT X-RAY</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">SCAN</string>
+    <string name="defaultImage"></string>
+    <string name="descriptionImage">View for displaying image</string>
+</resources>
