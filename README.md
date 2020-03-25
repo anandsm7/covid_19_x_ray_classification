@@ -4,6 +4,14 @@ Android application for X-Ray image classification to check for COVID-19
 
 Load any x ray images from your gallery and check for covid-19 postive or not
 
+## app interface
+
+Image captured              |  Classification result
+:--------------------------:|:-------------------------:
+![alt-text-1](https://i.imgur.com/VZ71oWM.png)  |   ![alt-text-2](https://i.imgur.com/s9YGWBo.png)
+![alt-text-3](https://i.imgur.com/VZ71oWM.png)  |   ![alt-text-4](https://i.imgur.com/mMDScvY.png)
+
+
 ### Disclaimer:
 
 Only for educational purpose
